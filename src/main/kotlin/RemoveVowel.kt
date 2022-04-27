@@ -15,5 +15,5 @@ fun remove(st:String) {
 }
 fun main()
 {
-    remove("zuberkhan")
+    remove("zuben")
 }

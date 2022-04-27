@@ -1,4 +1,5 @@
 data class DataClass(var product :String,var price:Int) {
+    // Data class like getter and setter
     fun show()
     {
         println("Show price..")

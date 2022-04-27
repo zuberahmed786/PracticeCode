@@ -1,7 +1,7 @@
 public class CeilingNumber {
     public static void main(String[] args) {
         int arr[] = {2, 4, 6, 8, 12, 15, 34};
-        System.out.println("Ceiling is :" + ceiling(arr, 3));
+        System.out.println("Ceiling is :" + ceiling(arr, 5));
     }
     static int ceiling(int arr[], int target) {
         if (target > arr[arr.length - 1]) {

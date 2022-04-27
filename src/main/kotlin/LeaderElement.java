@@ -1,5 +1,5 @@
 public class LeaderElement {
-
+    //Element which is greater than its all the right side element are leader
     public static void main(String[] args)
     {
         int [] arr = {16,17,4,3,5,2};

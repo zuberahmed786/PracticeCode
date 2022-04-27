@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class SubArrSum {
-
+    //Function to find first and last index of subarray sum equal to given number
     public static Object subSum(int [] arr , int n, int sum)
     {
         int curr_sum,i=0,j=0;
@@ -32,6 +32,6 @@ public class SubArrSum {
     {
        int[] arr = {12,2,4,5,6,7};
 
-       SubArrSum.subSum(arr,arr.length,90);
+       SubArrSum.subSum(arr,arr.length,6);
     }
 }
