@@ -3,11 +3,7 @@ public class BinarySearch {
         int arr[] = {9, 8, 6, 4, 2};
         System.out.println(binarySearch(arr, 2));
     }
-    
-    private name()
-    {
-        System.out.println("one line added);
-    }
+   
     // Functin to search element using binary search either ascending or descending order
     static int binarySearch(int arr[], int target) {
         int start = 0;
